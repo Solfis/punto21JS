@@ -1,0 +1,1 @@
+console.log("hola este es mi primer scritp en javascritp");

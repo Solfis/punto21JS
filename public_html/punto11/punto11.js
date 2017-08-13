@@ -4,8 +4,9 @@ var carrito="";
 
 
 do {
-    carrito = carrito + "*";
+    carrito = carrito + burrito;
     console.log(carrito);
     asterisco++;
 
 }while (asterisco <= 4);
+
